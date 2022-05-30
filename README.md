@@ -6,4 +6,3 @@ Lista de tarefa simples recebendo dados de entrada, criando a tarefa, possibilit
 
 ![fundo](https://media.giphy.com/media/eshVALqdVciqacRLpO/giphy.gif)
 
-Visualizar  https://jessicaagrs.github.io/projeto-javascript-lista-de-tarefas/
